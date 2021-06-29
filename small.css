@@ -1,0 +1,22 @@
+#container {
+	width: 100%;
+	margin: 0px auto;
+}
+body {
+	background-image: url('bubble-bg.png');
+}
+.align-left {
+	float: none;
+	text-align: center;
+}
+.align-right{
+	float: none;
+	text-align: center;
+}
+.Hero img {
+	border-radius: 0px;
+}
+#contact-info {
+  padding: inherit;
+  text-align: center;
+}
